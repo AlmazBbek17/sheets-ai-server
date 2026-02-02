@@ -1,0 +1,6 @@
+{
+  "name": "sheets-ai-server",
+  "version": "1.0.0",
+  "description": "Backend для расширения Google Sheets",
+  "dependencies": {}
+}
